@@ -15,7 +15,7 @@
         <div class="project-card">
             <div class="project-card__header">
                 <h4 class="project-card__title">Tindahan Companion</h4>
-                <a href="#" target="_blank" style="color: blue;">View Project</a>
+                <a href="https://github.com/HeavenlyRussel/Stealth-WordPress-Theme" target="_blank">View Project</a>
             </div>
             <div class="project-card__content">
                 <p><strong>Situation:</strong> Neighborhood variety stores rely heavily on manual notebook logging for daily sales and merchandise tracking.</p>
@@ -28,7 +28,7 @@
         <div class="project-card">
             <div class="project-card__header">
                 <h4 class="project-card__title">Stealth Theme - Custom WordPress Engineering</h4>
-                <a href="https://github.com/HeavenlyRussel/Stealth-WordPress-Theme" target="_blank" style="color: blue;">View Project</a>
+                <a href="#" target="_blank">View Project</a>
             </div>
             <div class="project-card__content">
                 <p><strong>Action:</strong> Engineered this lightweight, secure WordPress theme entirely from scratch without relying on bloated drag-and-drop builders. Developed raw PHP templates, managed asset enqueueing via WordPress hooks, and applied Block Element Modifier (BEM) CSS methodology for a highly performant frontend.</p>

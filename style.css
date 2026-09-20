@@ -15,6 +15,10 @@ Text Domain: stealth-portfolio
     --accent: #ffffff;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: var(--bg-color);
     color: var(--text-primary);
@@ -211,6 +215,19 @@ section {
     flex-direction: row;
     justify-content: space-between;
 
+}
+
+/* Fix for the View Project link */
+.project-card__header a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.3s ease;
+}
+
+.project-card__header a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
 }
 
 /* --- Mobile Responsiveness --- */
