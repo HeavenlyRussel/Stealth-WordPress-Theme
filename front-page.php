@@ -13,7 +13,10 @@
         <h3 class="section-title">Selected Projects</h3>
         
         <div class="project-card">
-            <h4 class="project-card__title">Tindahan Companion</h4>
+            <div class="project-card__header">
+                <h4 class="project-card__title">Tindahan Companion</h4>
+                <a href="#" target="_blank" style="color: blue;">View Project</a>
+            </div>
             <div class="project-card__content">
                 <p><strong>Situation:</strong> Neighborhood variety stores rely heavily on manual notebook logging for daily sales and merchandise tracking.</p>
                 <p><strong>Complication:</strong> Traditional paper records cause stock discrepancies, untracked inventory shrinkage, and lack secure ways to delegate store duties to other family members or staff.</p>
@@ -23,7 +26,10 @@
         </div>
 
         <div class="project-card">
-            <h4 class="project-card__title">Stealth Theme - Custom WordPress Engineering</h4>
+            <div class="project-card__header">
+                <h4 class="project-card__title">Stealth Theme - Custom WordPress Engineering</h4>
+                <a href="https://github.com/HeavenlyRussel/Stealth-WordPress-Theme" target="_blank" style="color: blue;">View Project</a>
+            </div>
             <div class="project-card__content">
                 <p><strong>Action:</strong> Engineered this lightweight, secure WordPress theme entirely from scratch without relying on bloated drag-and-drop builders. Developed raw PHP templates, managed asset enqueueing via WordPress hooks, and applied Block Element Modifier (BEM) CSS methodology for a highly performant frontend.</p>
             </div>
